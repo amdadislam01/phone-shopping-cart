@@ -1,8 +1,8 @@
-📱 Phone Shopping Cart
+#  📱 Phone Shopping Cart
 
 A responsive and interactive phone shopping cart project built with HTML, CSS, and JavaScript. This simple yet effective web application allows users to view phone details, increase or decrease quantities, calculate total prices, and simulate a checkout experience.
 
-🔗 Live Preview: Phone Shopping Cart
+##  🔗 Live Preview: Phone Shopping Cart
 
 🚀 Features
 
@@ -16,7 +16,7 @@ A responsive and interactive phone shopping cart project built with HTML, CSS, a
 
 🛒 Simulated checkout button
 
-🛠️ Built With
+##  🛠️ Built With
 
 HTML5
 
@@ -24,7 +24,7 @@ CSS3
 
 JavaScript (Vanilla JS)
 
-📸 Screenshots
+##  📸 Screenshots
 
 Here is a preview of the Phone Shopping Cart interface:
 
@@ -44,4 +44,4 @@ MD. Amdad Islam📧 Email: amdad200063@gmail.com🌐 GitHub: amdadislam01
 
 "This project is part of my journey in mastering JavaScript and becoming a full-stack developer."
 
-"This project is part of my journey in mastering JavaScript and becoming a full-stack developer."
+
